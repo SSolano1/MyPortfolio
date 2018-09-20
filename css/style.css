@@ -26,6 +26,9 @@ body{
 	float: none;
 	vertical-align: top;
 }
+.about-text{
+	color: white;
+}
 /* .parallax-window {
 	background: transparent;
 } */
@@ -94,9 +97,14 @@ a.btn-custom{
 	margin:0;
 	text-transform:uppercase;
 	letter-spacing:2px;
+	color: white;
 }
 .section-header > .divider{
 	margin-top:25px;
+}
+.person-img img {
+	border-radius: 50%;
+	
 }
 .section-header.text-white > h2{
 	color:#FFF;
